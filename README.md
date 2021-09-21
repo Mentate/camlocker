@@ -10,7 +10,7 @@ With this app running you can walk away from your machine and it should lock wit
 
 ## Caveats
 If another app is using the web cam then the script will assume the computer is being used and will not lock it. As soon as the camera becomes available it will go normal operation. This app tries to tie up the camera as little as possible, but in theory it is possible for the script to be using the camera when you try to start another app that uses the camera. If this happens just wait a few seconds and try again, it should work. Assuming you are actually using the keyboard/mouse before you start trying to use the camera this isn't very unlikely to happen.
-Another issues is that the facial detection doesn't work well when the camera has a profile view instead of a frontal view of the face. This means if you turn your face completely perpendicular to the camera and aren't entering any input it could lock even though you are still in front of your desk. If this becomes a problem I would advize increasing the time that it checks for a face before locking. You could also adjust the sensitivity of the facial detection.
+Another issues is that the facial detection doesn't work well when the camera has a profile view instead of a frontal view of the face. This means if you turn your face completely perpendicular to the camera and aren't entering any input it could lock even though you are still in front of your desk. If this becomes a problem I would advise increasing the time that it checks for a face before locking. You could also adjust the sensitivity of the facial detection.
 
 
 ## Improvements
