@@ -14,10 +14,10 @@ This app tries to tie up the camera as little as possible. In theory it is possi
 
 
 ## Improvements
-It would be great if this ran in the background instead of requiring an ugly console window to be up at all times. 
-It would also be nice to have an icon in the task bar that lets you turn off or pause the application.
-There are several values that can be customized (timers and parameters that effect facial detection sensitivity). A gui window to customize these would be helpful
-Instalation would be hard for non-programmers. Having some kind of easy to install package would make this accessable to more users
+* It would be great if this ran in the background instead of requiring an ugly console window to be up at all times. 
+* It would also be nice to have an icon in the task bar that lets you turn off or pause the application.
+* There are several values that can be customized (timers and parameters that effect facial detection sensitivity). A gui window to customize these would be helpful
+* Instalation would be hard for non-programmers. Having some kind of easy to install package would make this accessable to more users
 
 ## Contact
 Pull requests are welcome.Feel free to contact me if needed: Josiah@JosiahCarpenter.com
